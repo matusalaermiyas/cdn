@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Custom T-Shirt",
+        "thumbnail": "/images/tshirt-thumbnail.png",
+        "elements": [
+            {
+                "type": "image",
+                "source": "/images/tshirt.png",
+                "boundingBox": {
+                    "x": 50,
+                    "y": 100,
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        ]
+    }
+]
