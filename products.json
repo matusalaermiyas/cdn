@@ -1,11 +1,11 @@
 [
     {
         "title": "Custom T-Shirt",
-        "thumbnail": "/images/tshirt-thumbnail.png",
+        "thumbnail": "https://cdn-cyan-nine.vercel.app/tshirt.jpeg",
         "elements": [
             {
                 "type": "image",
-                "source": "/images/tshirt.png",
+                "source": "https://cdn-cyan-nine.vercel.app/tshirt.jpeg",
                 "boundingBox": {
                     "x": 50,
                     "y": 100,
